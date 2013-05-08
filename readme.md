@@ -1,6 +1,8 @@
+# Explanation: http://net.tutsplus.com/tutorials/php/create-instagram-filters-with-php/
+
 # [Instagraph](http://instagraph.me) - Instagram with ImageMagick & PHP
 
-In this repository, I’ll demonstrate you how to create vintage (just like Instagram does) photos effects with PHP and ImageMagick. Wait? What? Yes, you can do this very thing with PHP and ImageMagick, and that’s just scratching the surface of allmighty Imagemagick!
+In this repository, Iï¿½ll demonstrate you how to create vintage (just like Instagram does) photos effects with PHP and ImageMagick. Wait? What? Yes, you can do this very thing with PHP and ImageMagick, and thatï¿½s just scratching the surface of allmighty Imagemagick!
 
 ## In Few Short Lines
 
